@@ -1,0 +1,93 @@
+html {
+	background-color: #b30000;
+}
+
+.body {
+	font-family: "Rubik Wet Paint";
+	margin: 0 auto;
+	margin-top: 5px;
+	font-size: 15px;
+	text-align: center;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 800px;
+  color: green;
+}
+
+
+.left {
+  width: 150px;
+}
+
+h1 {
+  font-size: 36px;
+  padding: 5px;
+  color: #e60000;
+  background-color: #000;
+  
+}
+
+h2 {
+  font-size: 24px;
+  padding: 5px;
+  text-transform: uppercase;
+  color: DodgerBlue;
+  font-family: "Creepster";
+}
+
+h3 {
+  font-size: 20px;
+  padding: 15px;
+  text-transform: uppercase;
+  text-align: left;
+  margin-left: 20px;
+  font-weight: 500;
+  line-height: 2.7;
+  letter-spacing: 0.8px;
+}
+
+th {
+  border: 12px green;
+  border-style: groove;
+  border-radius: 50px;
+}
+
+table {
+  text-align: center;
+  margin: 5px auto;
+  padding: 5px;
+  background-color: #000;
+  border-radius: 55px;
+  
+}
+
+td {
+  border: 12px double #e60000;
+  width: 300px;
+  border-radius: 55px;
+  margin: 15px;
+}
+
+footer {
+  margin-top: 5px;
+  text-align: center;
+  position: fixed;
+  width: 05%;
+  bottom: 5px;
+  background-color: #000;
+  z-index: 1;
+ margin-left: 80px;
+  font-family: "Bungee Spice";
+  border: 5px double #e60000;
+  border-radius: 55px;
+  font-size: 15px;
+  
+  line-height: 1;
+}
+
+img.rounded-corners {
+  border-radius: 30px;
+}
